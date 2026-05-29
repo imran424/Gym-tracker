@@ -1,11 +1,11 @@
 {
-    "name": "gym_tracker",
-    "short_name": "gym_tracker",
+    "name": "Gym Tracker",
+    "short_name": "Gym Tracker",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#121212",
+    "theme_color": "#4ADE80",
+    "description": "Personal gym workout tracker — log sets, track weights, and stay consistent.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
